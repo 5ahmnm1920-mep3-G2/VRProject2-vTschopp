@@ -1,28 +1,30 @@
-# Template Repository for Unity3D version 2019.1.14f1
+# Mystery Physics
 
-### Project description: 
-Introduction/Project summary 
+:bangbang: **This game is a new attempt of [this project](https://github.com/5ahmnm1920-mep3-G2/VRProject-vTschopp)
+because the Oculus Quest didn't work well with my system.**
 
-### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Mystery Physics is a virtual reality game developed in [Unity](http://unity.com/) for the [VIVE](https://www.vive.com/).
+The goal of the game is to solve a puzzle by manipulating fundamental physical principles like gravity and magnetism.
 
-### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+:bangbang: **This game is only a proof of concept and not yet performant!**
 
-### Visuals: 
-Screenshots (concept and experience), Video
+## Progress
+:squirrel: **5 %** - rebuilding the project with the VIVE
 
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+## How to build from source
+Clone the repository, open the project with Unity 2019.1.14f1 and build it.
 
-### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+## Development and target platforms
+- **Unity 2019.1.14f1** on macOS Catalina
+  - Scripting Runtime: **.NET 3.5**
+  - API-Level: **.NET 2.0 Subset**
+- **Visual Studio** for Mac Community v8.3.10 (build 2)
+- Developed for the **[VIVE](https://www.vive.com/)**
 
-### Project state: 
-incl. progress in percent
+## Tutorials and Docs
+- TBA
 
-### Limitations: 
+## License
+This project is licensed under the BSD 2-Clause License - see the [LICENSE.md](LICENSE.md) file for more information.
 
-### Lessons Learned: 
-
-Copyright by you :)
+*Made with :heart: in Salzburg, Austria.*
