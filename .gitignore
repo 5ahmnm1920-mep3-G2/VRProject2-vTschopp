@@ -7,6 +7,8 @@
 [Ll]ogs/
 Assets/AssetStoreTools*
 
+/[Mm]odels/
+
 # Visual Studio cache directory
 .vs/
 .vscode/
@@ -64,8 +66,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-  
-# General
+# macOS
 .DS_Store
 .AppleDouble
 .LSOverride
