@@ -65,7 +65,9 @@ A spinning globe was added. Yeah, thats all. :rocket:
 **By 19th of February 2020** <br>
 [Standard Assets](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2017-3-32351)
 were added for the first-personen controller, thats because during semester break I had no access to a VR system.
-Also a problem with the world scale emerged: apparently, VR is using a smaller scale than the classical approach. :ant:
+Also a problem with the world scale emerged: apparently, VR is using a smaller scale than the classical approach.
+**Update:** Maybe I made a mistake and rescaled the world (platforms) wrong *after* I checked the level in VR,
+but I'm not quite sure. Scaling for VR without equipment is difficult. :ant: :elephant:
 
 ## Resume
 The project was no success at all. First of all, to develop for VR but without a stationary virtual reality system
