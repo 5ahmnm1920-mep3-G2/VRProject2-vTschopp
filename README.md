@@ -17,9 +17,10 @@ The goal of the game is to solve a puzzle by manipulating fundamental physical p
 The player *should* control a platform only with moving the controller in the right direction.
 In order to reach the other side, it is necessary for the player to collect energy cells.
 
-- [Screenshot 1]()
-- [Screenshot 2]()
-- [Concept]()
+- [Screenshot 1](https://github.com/5ahmnm1920-mep3-G2/VRProject2-vTschopp/blob/master/Presentation/Images/screenshot-1.png)
+- [Screenshot 2](https://github.com/5ahmnm1920-mep3-G2/VRProject2-vTschopp/blob/master/Presentation/Images/screenshot-2.png)
+- [Concept 1](https://github.com/5ahmnm1920-mep3-G2/VRProject2-vTschopp/blob/master/Presentation/Images/concept-1.jpg)
+- [Concept 2](https://github.com/5ahmnm1920-mep3-G2/VRProject2-vTschopp/blob/master/Presentation/Images/concept-2.jpg)
 
 ## How to build from source
 :bangbang: **The project is not ready to be build yet!**
@@ -64,7 +65,7 @@ A spinning globe was added. Yeah, thats all. :rocket:
 **By 19th of February 2020** <br>
 [Standard Assets](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2017-3-32351)
 were added for the first-personen controller, thats because during semester break I had no access to a VR system.
-Also a problem with the world scale emerged: apparently, VR is using a smaller scale than the classical system. :ant:
+Also a problem with the world scale emerged: apparently, VR is using a smaller scale than the classical approach. :ant:
 
 ## Resume
 The project was no success at all. First of all, to develop for VR but without a stationary virtual reality system
